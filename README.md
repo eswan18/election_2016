@@ -5,3 +5,4 @@ Also a good source of [clean county-level election data](/data/nice_election_dat
 
 Data pulled from [tonmcg's County Level Election Results 2012-16](https://github.com/tonmcg/County_Level_Election_Results_12-16).
 
+![sample](/images/2016_election_geo_county.png)
